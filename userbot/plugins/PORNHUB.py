@@ -38,21 +38,17 @@ async def _(event):
 
         animation_chars = [
 
-            "P_",
+            "A_",
 
-            "PO_",
+            "Ah_",
 
-            "POR_",
+            "AhM_",
 
-            "PORN_",
+            "AhMa_",
             
-            "PORNH_",
+            "AhMaD",
             
-            "PORNHU_",
-            
-           "PORNHUB_", 
            
-           "PORNHUB",
 
         ]
 
