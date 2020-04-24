@@ -16,4 +16,4 @@ async def amireallyalive(alive):
                      "`تم التنصيب بواسطة:` [𓆩 𝙰𝙷𝙼𝙰𝙳 𝙱𝙰𝚁𝙰𝙽 𓆪](tg://user?id=801023241)\n" 
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`" 
                      f"`My peru owner`: {DEFAULTUSER}\n" 
-                     "[اشترك ليصلك كل ما هو جديد ♥](https://t.me/joinchat/AAAAAEwLzFqiU7iYmuggWQ)")
+                     "[اشترك ليصلك كل ما هو جديد ♥](https://t.me/SFFSF)")
